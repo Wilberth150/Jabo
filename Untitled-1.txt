@@ -1,0 +1,1 @@
+git remote agregar origen https://github.com/Wilberth150/Proyecto-2.0. git
